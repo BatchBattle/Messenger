@@ -53,3 +53,6 @@ To log in:
 - Navigate to your chat application directory.
 - Run `login.bat` and follow the prompts to enter a username, along with some other stuff.
 - This will automatically run the sendMessage.bat
+
+# Pictures:
+![Example Message](https://media.discordapp.net/attachments/1260854976675057754/1260860459700064276/image.png?ex=6690db4f&is=668f89cf&hm=70b61d11387ba304d5bfb91f9496e9a52d26904b19b2adbd946954b55a1d9397&=&format=webp&quality=lossless&width=1165&height=702)
